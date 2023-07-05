@@ -1,0 +1,11 @@
+com\application\service\ArticleServiceTest.class
+com\application\model\Sequence.class
+com\application\repositories\ArticleRepository.class
+com\application\repositories\ArticleRepositoryImpl.class
+com\application\controller\ArticleController.class
+com\application\DemoApplication.class
+com\application\model\Order.class
+com\application\Application.class
+com\application\service\ArticleServiceImpl.class
+com\application\model\Article.class
+com\application\service\ArticleService.class
